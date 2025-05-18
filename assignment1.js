@@ -1,3 +1,13 @@
+/********************************************************************************
+*  WEB700 – Assignment 1
+* 
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: Zeinab Mohamed Student ID: 123970246 Date: 17/05/2025
+*/
 // console.log("Hello world")
 //  Step 3: Creating the "Server" Arrays
 // Declaring variables to simulate server methods, routes, and responses
